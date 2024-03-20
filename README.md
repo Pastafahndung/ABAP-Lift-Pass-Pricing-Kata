@@ -1,4 +1,5 @@
 # ABAP-Lift-Pass-Pricing-Kata
+
 ## The Ski Lift Pass Pricing Kata for ABAP Devs!
 
 This is the ABAP version of the infamous [Lift Pass Pricing Kata by Johann Martinson](https://github.com/martinsson/Refactoring-Kata-Lift-Pass-Pricing). Its a piece of software which calculates the price of a ski lift pass. I adapted it slightly to the ABAP world:
@@ -38,7 +39,3 @@ Greetings,
 Dominik
 
 follow me on [Twittter](https://twitter.com/PanzerDominik) or [Mastodon](https://sw-development-is.social/web/@PanzerDominik)
-
-## tab test
-
-here is something
